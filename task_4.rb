@@ -1,4 +1,3 @@
-# D = b**2 - 4*a*c
 puts "insert coifficient A"
 a = gets.chomp.to_f
 puts "insert coifficient B"
